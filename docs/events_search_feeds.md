@@ -14,9 +14,9 @@ _Note: feed generation is not available in versions prior to 3.0_
 6. Change the text starting with /events to be /events/feed/rss.  In this case, the URL would become: www.yoursite.com/events/feeds/rss?neighborhoods=&categories=YY&range=this-weekend
 7. This represents an RSS feed that will be always return the live music events for the next weekend
 
-![Searching What]("/images/events_search_what.png"Searching What")
+![Searching What](https://pointslocal.github.io/howto/images/events_search_what.png)
 
-![Searching When]("/images/events_search_when.png"Searching When")
+![Searching When](https://pointslocal.github.io/howto/images/events_search_when.png)
 
 
 Any search can be transformed in this manner by changing /events to /events/feed/rss.  Here are some common search parameters:
