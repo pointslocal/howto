@@ -1,2 +1,1 @@
-# howto
-Pointslocal user guides
+# Pointslocal User Guides

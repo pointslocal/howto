@@ -1,2 +1,0 @@
-# howto
-Pointslocal user guides
