@@ -26,6 +26,7 @@ Any search can be transformed in this manner by changing /events to /events/feed
 * venue=XX where XX represents a venue ID
 * range=Text where Text represents a valid relative date like "today" "tomorrow" "this-weekend" "this-month" "next-week" or "next-month"
 * tag=Text where Text represents an arbitrary tag in the admin
+* venue_guid=XX where XX represents the venue's GUID (from the admin)
 
 _Note: any search can exclude fuzzy or near matches by applying the &exact=1 parameter.  This is most useful in category or date-based searches_
 
