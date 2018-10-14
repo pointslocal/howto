@@ -52,3 +52,7 @@ Then click the search icon to open the search options. From here, use the "Templ
 Some search options can override the template. This is useful if you have a pre-baked search but want to override the dates, for example. If you had an Entertainment template that ran Thursday to Sunday but wanted to search for the same events for two weeks, you could select the Entertainment template but supply your own date search.
 
 When selecting a template-based search, the number of results will be higher than a traditional page, but is still truncated. You may see several pages of results.
+
+If - instead of just searching events - you wish to export the results, select all or some of the results. Once more than one event is selected the Export button at the bottom of the screen will activate. You can then choose the template you wish and the reverse publishing file will be generated. Depending on that export's configuration, the results will come to screen, exported to your CMS, emailed to certain users or any combination of the above.
+
+![Search](https://pointslocal.github.io/howto/images/events_templates_search3.png)
